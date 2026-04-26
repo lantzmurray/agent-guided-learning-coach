@@ -1,0 +1,84 @@
+AB-100: Agentic AI Business Solutions Architect
+
+EXAM OVERVIEW:
+This certification validates the skills and knowledge of experienced solutions architects in designing and delivering agentic AI-powered business solutions that transform enterprise processes.
+
+TARGET CANDIDATE:
+Experienced solutions architect with expertise in designing and delivering AI-based solutions that transform business processes.
+
+DOMAIN 1: Design Orchestrated Multi-Agent Solutions (40-45%)
+
+1.1 Design multi-agent orchestration patterns
+- Design hierarchical agent architectures
+- Design supervisor-worker agent patterns
+- Design collaborative agent networks
+- Choose appropriate orchestration frameworks (Microsoft Copilot Studio, Azure AI Studio, etc.)
+- Design agent communication protocols
+
+1.2 Design agent collaboration workflows
+- Design agent-to-agent handoff procedures
+- Design shared context management
+- Design collective decision-making patterns
+- Implement agent state management strategies
+
+1.3 Design agent lifecycle management
+- Design agent provisioning and deployment patterns
+- Design agent versioning and upgrade strategies
+- Design agent monitoring and health checks
+- Plan for agent retirement/deprecation
+
+DOMAIN 2: Design AI-Powered Business Solutions (25-30%)
+
+2.1 Design AI-powered business processes
+- Analyze business requirements for AI automation
+- Map business processes to agent capabilities
+- Design AI-human collaboration workflows
+- Design business rules integration with AI agents
+- Evaluate AI solution ROI
+
+2.2 Design AI-powered customer experience solutions
+- Design Copilot in Dynamics 365 for customer service
+- Design customizations for customer experience
+- Design connectors for customer contact channels
+- Design task agents for customer interactions
+- Design autonomous agents for customer self-service
+
+2.3 Design task and autonomous agents
+- Design task agents for specific business functions
+- Design autonomous agents for automated workflows
+- Design prompt and response agents
+- Implement safety guardrails for autonomous actions
+
+DOMAIN 3: Implement and Operationalize AI Solutions (15-20%)
+
+3.1 Implement AI agent solutions
+- Configure pre-built AI agents
+- Customize agent behavior with prompts
+- Implement knowledge bases and vector stores
+- Integrate agents with business data sources
+
+3.2 Deploy AI solutions
+- Plan deployment across environments (dev/test/prod)
+- Implement CI/CD pipelines for AI solutions
+- Configure security and access controls
+- Set up monitoring and alerting
+
+3.3 Monitor and tune AI-powered solutions
+- Recommend monitoring processes and tools for agents
+- Analyze backlog and user feedback on AI usage
+- Apply AI-based tools to identify issues and tuning
+- Monitor agent performance metrics
+
+DOMAIN 4: AI Governance and Security (10-15%)
+
+4.1 Design AI governance frameworks
+- Design responsible AI policies
+- Implement AI bias detection and mitigation
+- Design AI audit trails and compliance
+- Plan for regulatory requirements (GDPR, etc.)
+
+4.2 Implement AI security
+- Design authentication and authorization for AI agents
+- Implement data protection for AI workflows
+- Design threat detection for AI systems
+- Implement AI-specific security controls

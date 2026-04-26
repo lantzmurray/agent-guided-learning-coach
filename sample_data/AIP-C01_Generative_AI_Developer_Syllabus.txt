@@ -1,0 +1,158 @@
+AWS Certified Generative AI Developer - Professional (AIP-C01)
+
+EXAM OVERVIEW:
+This certification validates the ability to implement GenAI solutions into production environments using AWS technologies. It demonstrates practical knowledge of integrating foundation models (FM) into applications and business workflows.
+
+TARGET CANDIDATE:
+Individuals with 2+ years building production applications on AWS, 1+ year implementing GenAI solutions, and experience with general AI/ML or data engineering.
+
+RECOMMENDED KNOWLEDGE:
+- AWS compute, storage, and networking services
+- AWS security best practices and identity management
+- AWS deployment and Infrastructure as Code (IaC)
+- AWS monitoring and observability services
+- AWS cost optimization principles
+
+EXAM FORMAT:
+- 65 scored questions + 10 unscored questions
+- Pass score: 750 (scale of 100-1000)
+- Question types: Multiple choice (single answer), Multiple response (2+ correct answers)
+
+DOMAIN 1: Foundation Model Integration, Data Management, and Compliance (22%)
+
+1.1 Implement LLM deployment and serving
+- Deploy foundation models using Amazon SageMaker
+- Implement model inference endpoints
+- Configure auto-scaling for inference
+- Optimize model serving performance
+- Implement model versioning and A/B testing
+
+1.2 Implement RAG (Retrieval Augmented Generation) architectures
+- Design vector databases for RAG (Amazon Aurora, Pinecone, etc.)
+- Implement document chunking and embedding strategies
+- Build retrieval pipelines for context augmentation
+- Evaluate RAG performance and accuracy
+- Implement hybrid search approaches
+
+1.3 Implement data management for GenAI
+- Design data pipelines for training and fine-tuning
+- Implement data preprocessing and transformation
+- Manage data versioning and lineage
+- Implement data quality controls
+- Configure data access governance
+
+1.4 Implement AI compliance and governance
+- Implement data privacy protections
+- Configure model access controls
+- Enable audit logging and monitoring
+- Implement responsible AI safeguards
+
+DOMAIN 2: Implementation and Integration (26%)
+
+2.1 Implement prompt engineering solutions
+- Design and optimize prompts for specific use cases
+- Implement prompt templates and versioning
+- Implement few-shot learning strategies
+- Manage prompt performance and iteration
+- Implement prompt chaining and chaining techniques
+
+2.2 Implement agentic AI solutions
+- Design autonomous AI agents
+- Implement agent tools and tool use
+- Implement multi-agent orchestration
+- Configure agent memory and context management
+- Implement agent safety and fallback strategies
+
+2.3 Integrate GenAI with AWS services
+- Integrate with AWS Lambda, Step Functions
+- Connect to Amazon S3, DynamoDB, RDS
+- Use Amazon Bedrock for model access
+- Implement event-driven GenAI workflows
+- Configure VPC and private connectivity
+
+2.4 Implement model customization
+- Fine-tune foundation models on custom data
+- Implement LoRA and parameter-efficient tuning
+- Evaluate model performance post-fine-tuning
+- Manage fine-tuned model versions
+
+DOMAIN 3: AI Safety, Security, and Governance (20%)
+
+3.1 Implement AI security controls
+- Configure IAM policies for AI resources
+- Implement encryption for data at rest and in transit
+- Set up network security for AI workloads
+- Implement threat detection for AI systems
+- Configure AWS CloudTrail for AI audit
+
+3.2 Implement responsible AI practices
+- Detect and mitigate AI bias
+- Implement AI explainability tools
+- Configure content filtering and safety
+- Implement human-in-the-loop controls
+- Document model decisions and lineage
+
+3.3 Implement AI governance
+- Create AI use case documentation
+- Implement model risk assessments
+- Configure compliance reporting
+- Set up AI policy enforcement
+
+DOMAIN 4: Operational Efficiency and Optimization for GenAI Applications (12%)
+
+4.1 Optimize GenAI costs
+- Implement cost monitoring and controls
+- Use reserved capacity and savings plans
+- Optimize inference costs with batching
+- Implement model distillation techniques
+
+4.2 Optimize performance
+- Implement caching strategies
+- Configure appropriate instance types
+- Monitor and optimize latency
+- Implement load balancing for inference
+
+4.3 Implement MLOps for GenAI
+- Automate model deployment pipelines
+- Implement model monitoring and alerts
+- Configure automated retraining triggers
+- Manage model rollback and recovery
+
+DOMAIN 5: Testing, Validation, and Troubleshooting (20%)
+
+5.1 Test GenAI applications
+- Design comprehensive test suites
+- Implement red team testing for AI
+- Validate output quality and safety
+- Test for bias and fairness
+- Perform load and stress testing
+
+5.2 Validate AI solutions
+- Implement automated evaluation frameworks
+- Measure RAG accuracy and relevance
+- Validate agent behavior and safety
+- Conduct human evaluation studies
+
+5.3 Troubleshoot GenAI issues
+- Diagnose model performance issues
+- Debug retrieval and context problems
+- Resolve integration failures
+- Analyze and fix agent behavior issues
+- Implement observability and debugging tools
+
+IN-SCOPE AWS SERVICES:
+- Amazon Bedrock (Claude, Llama, Mistral, Stable Diffusion, Titan)
+- Amazon SageMaker (JumpStart, Pipelines, Model Registry)
+- Amazon Titan, Amazon Q
+- AWS Lambda, Step Functions
+- Amazon S3, DynamoDB, RDS, Aurora
+- Amazon CloudWatch, CloudTrail, Config
+- AWS IAM, KMS, Secrets Manager
+- Amazon OpenSearch, Amazon Aurora (vector)
+- Amazon Kendra
+- AWS CodeDeploy, CodePipeline
+
+OUT-OF-SCOPE:
+- Model development and training from scratch
+- Advanced ML algorithms beyond GenAI
+- Data engineering and feature extraction

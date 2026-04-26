@@ -1,0 +1,239 @@
+NCLEX-RN (National Council Licensure Examination - Registered Nurse)
+
+EXAM OVERVIEW:
+The NCLEX-RN is a computerized adaptive test that determines whether a candidate is safe and competent to practice as an entry-level registered nurse. All U.S. state boards of nursing require passage for licensure.
+
+EXAM FORMAT:
+- Question types: Multiple choice, multiple response, fill-in-the-blank, drag-and-drop
+- Minimum: 75 questions, Maximum: 265 questions
+- Time limit: 5 hours
+- Passing standard determined by psychometric analysis
+
+FOUR MAJOR CLIENT NEEDS CATEGORIES:
+
+CATEGORY 1: Safe and Effective Care Environment (15-21%)
+
+Management of Care (15-21%)
+- Advance directives
+- Advocacy
+- Case management
+- Client rights
+- Confidentiality/information security
+- Continuity of care
+- Delegation
+- Establishing priorities
+- Ethical practice
+- Informed consent
+- Legal responsibilities
+- Performance improvement
+- Referrals
+
+Safety and Infection Control (10-16%)
+- Accident/error prevention
+- Emergency response plan
+- Handling hazardous materials
+- Incident reporting
+- Infection control measures
+- restraints and safety devices
+- Safe environment
+
+CATEGORY 2: Health Promotion and Maintenance (6-12%)
+
+- Aging process
+- Ante/intra/postpartum care
+- Developmental stages
+- Disease prevention
+- Health promotion programs
+- Health screening
+- High risk behaviors
+- Immunizations
+- Lifestyle choices
+- Nutrition
+- Prenatal care
+- Self-care
+- Expected changes with aging
+
+CATEGORY 3: Psychosocial Integrity (6-12%)
+
+- Abuse/neglect
+- Behavioral interventions
+- Chemical dependency
+- Coping mechanisms
+- Crisis intervention
+- Cultural awareness
+- Death and dying
+- End of life care
+- Family dynamics
+- Grief and loss
+- Mental health concepts
+- Sensory changes
+- Spiritual influence on health
+- Stress management
+- Support systems
+- Therapeutic communication
+- Therapeutic environment
+- Violence precautions
+
+CATEGORY 4: Physiological Integrity (40-64%)
+
+Basic Care and Comfort (6-12%)
+- Assistive devices
+- Elimination
+- Mobility/immobility
+- Non-pharmacological comfort interventions
+- Nutrition
+- Oral care
+- Personal hygiene
+- Rest and sleep
+
+Pharmacological and Parenteral Therapies (13-19%)
+- Adverse effects
+- Blood products
+- Central venous access devices
+- Chemotherapy
+- Expected responses
+- Intravenous therapy
+- Medication administration
+- Parenteral nutrition
+- Pharmacological pain management
+- Total parenteral nutrition
+
+Reduction of Risk Potential (10-16%)
+- Changes/abnormalities in vital signs
+- Diagnostic tests
+- Laboratory values
+- Potential for complications
+- System-specific assessments
+- Therapeutic procedures
+
+Physiological Adaptation (11-17%)
+- Acute, chronic, and terminal illness
+- Basic pathophysiology
+- Blood glucose monitoring
+- Fluid and electrolyte imbalances
+- Hemodynamics
+- Infectious diseases
+- Medical emergencies
+- Unexpected response to therapies
+
+INCORPORATING THE NURSING PROCESS:
+1. Assessment - Data collection, history taking, physical examination
+2. Diagnosis - Identify actual or at-risk nursing diagnoses
+3. Planning - Set goals, outcomes, and interventions
+4. Implementation - Execute nursing interventions
+5. Evaluation - Assess effectiveness of care
+
+PRIORITY FRAMEWORKS FOR NCLEX:
+- ABCs (Airway, Breathing, Circulation)
+- Maslow's Hierarchy of Needs
+- Steps of the Nursing Process
+- Urgent vs. Emergent
+
+NUTRITION ESSENTIALS:
+- Food pyramid and dietary guidelines
+- Cultural and religious food practices
+- Therapeutic diets (clear liquid, full liquid, soft, low sodium, diabetic, etc.)
+- Malnutrition signs
+- NPO status
+
+MEDICATION CLASSIFICATIONS:
+- Analgesics
+- Antibiotics
+- Anticoagulants
+- Antidiabetic agents
+- Antihypertensives
+- Anti-inflammatory drugs
+- Cardiovascular agents
+- Diuretics
+- Insulin
+- Laxatives
+- Narcotics
+- Steroids
+
+LIFE SPAN DEVELOPMENT:
+- Infant (0-1 year): Gross motor, fine motor, language, social
+- Toddler (1-3 years): Autonomy vs. shame
+- Preschool (3-6 years): Initiative vs. guilt
+- School-age (6-12 years): Industry vs. inferiority
+- Adolescent (12-20 years): Identity vs. role confusion
+- Young adult (20-40 years): Intimacy vs. isolation
+- Middle adult (40-65 years): Generativity vs. stagnation
+- Older adult (65+ years): Integrity vs. despair
+
+ELECTROLYTE IMBALANCES:
+- Sodium, potassium, calcium, magnesium
+- Signs and symptoms
+- Nursing interventions
+- Dietary sources
+
+ACID-BASE BALANCE:
+- Respiratory acidosis/alkalosis
+- Metabolic acidosis/alkalosis
+- Compensation mechanisms
+- ABG interpretation
+
+DIABETES MANAGEMENT:
+- Type 1 vs. Type 2 diabetes
+- Blood glucose monitoring
+- Insulin types and administration
+- Hypoglycemia vs. hyperglycemia
+- Diabetic ketoacidosis (DKA)
+- Long-term complications
+
+CARDIOVASCULAR DISORDERS:
+- Angina, MI, heart failure
+- Arrhythmias
+- Hypertension
+- Peripheral vascular disease
+- Anticoagulant therapy
+
+RESPIRATORY DISORDERS:
+- Asthma, COPD, pneumonia
+- TB, lung cancer
+- Respiratory failure
+- Oxygen therapy
+- Chest tubes
+
+HEMATOLOGIC DISORDERS:
+- Anemia, polycythemia
+- Leukemia, lymphoma
+- Clotting disorders
+- Blood transfusions
+
+NEUROLOGIC DISORDERS:
+- Stroke (CVA), TIA
+- Seizures, epilepsy
+- Head injury
+- MS, ALS, Guillain-Barre
+- Increased ICP,昏迷
+
+RENAL DISORDERS:
+- Acute and chronic kidney disease
+- Dialysis
+- Urinary tract infections
+- Kidney stones
+- Fluid overload
+
+MENTAL HEALTH DISORDERS:
+- Anxiety, depression, bipolar
+- Schizophrenia
+- Substance abuse
+- Eating disorders
+- PTSD, OCD, phobia
+- Therapeutic communication techniques
+
+PEDIATRIC ESSENTIALS:
+- Growth and development milestones
+- Immunization schedule
+- Common childhood illnesses
+- Child abuse recognition
+- RSV, meningitis, sickle cell
+- Congenital heart defects
+
+MATERNITY NURSING:
+- Prenatal care and assessment
+- Labor and delivery stages
+- Postpartum care
+- Newborn assessment
+- Complications of pregnancy
+- L&D medications (Pitocin, etc.)
