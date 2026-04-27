@@ -2,6 +2,10 @@
 
 An AI-powered learning coach that creates personalized learning paths, quizzes you, tracks progress, and adapts to your learning style. Perfect for certification exam preparation and skill development.
 
+## Screenshot
+
+![LearningCoach](LearningCoach.png)
+
 ## Features
 
 - **Personalized Learning Paths**: AI-generated curriculum tailored to your topic and skill level
